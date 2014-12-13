@@ -1,6 +1,0 @@
-#One MOnth Rails
-
-This is the Pinteresting Example App for 
-[*One Month Rails*](http://onemonthrails.com)
-
-By me
